@@ -1,0 +1,18 @@
+﻿  stack.cpp
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(46,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(46,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(83,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(84,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(85,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(86,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(89,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+D:\source(Visual studios)\repos\mini_project_stack\cg-final-stack\stack.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+  cg-final-stack.vcxproj -> D:\source(Visual studios)\repos\mini_project_stack\Debug\cg-final-stack.exe
